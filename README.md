@@ -152,5 +152,5 @@ Standard error responses:
 ---
 
 ## Contact
-For support, contact `support@example.com`.
+For support, contact `khanshariq92213@gmail.com`.
 
